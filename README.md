@@ -10,7 +10,7 @@ The Trafalgar Landing Page is designed to showcase the virtual healthcare servic
 
 ## Demo
 
-You can view a live demo of the Trafalgar Landing Page [here](https://trafalgar-landing-page-seven.vercel.app/).
+You can view a live demo of the Trafalgar Landing Page [here](https://trafalgar-coral.vercel.app/).
 
 ## Features
 
@@ -38,3 +38,11 @@ You can view a live demo of the Trafalgar Landing Page [here](https://trafalgar-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+## Contact Information
+
+If you have any questions or need assistance, you can reach out to the project author:
+
+- Email: [Adham Nasser](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamxiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
